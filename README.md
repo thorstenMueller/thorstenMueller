@@ -9,11 +9,8 @@ My name is Thorsten Müller, a guy with lots of passion for several IT stuff fro
 
 ## My currently most active projects
 
-### TTS 
-> ___originally initiated by Mozilla___
-
-### Mycroft voice assistant
-
+* TTS (___originally initiated by Mozilla___)
+* Mycroft AI (free voice assistant)
 
 <!--
 **thorstenMueller/thorstenMueller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
