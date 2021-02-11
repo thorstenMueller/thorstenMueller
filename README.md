@@ -7,11 +7,12 @@ My name is Thorsten Müller, a guy with lots of passion for several IT stuff fro
 - 👯 I’m looking to collaborate on TTS and free voice assistant systems
 - 💬 Ask me about why i've chosen to donate my voice to mankind
 
-## My currently most active projects
+## My most (*hobby*) passion is currently at ...
 
-* TTS (___originally initiated by Mozilla___)
-* Mycroft AI (free voice assistant)
-
+* TTS (*originally initiated by Mozilla*)
+> https://github.com/mozilla/tts
+* Mycroft AI (*free voice assistant*)
+> https://github.com/mycroftai/
 <!--
 **thorstenMueller/thorstenMueller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
