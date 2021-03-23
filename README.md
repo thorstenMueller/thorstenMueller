@@ -6,11 +6,12 @@ My name is Thorsten Müller, a guy with lots of passion for several IT stuff fro
 - 🌱 I’m currently learning topics around machine learning
 - 👯 I’m looking to collaborate on TTS and free voice assistant systems
 - 💬 Ask me about why i've chosen to donate my voice to mankind
+- 📫 Feel free to contact me on Twitter (@ThorstenVoice)
 
 ## My most (*hobby*) passion is currently at ...
 
-* TTS (*originally initiated by Mozilla*)
-> https://github.com/mozilla/tts
+* Coqui TTS (*originally initiated by Mozilla*)
+> https://github.com/coqui-ai/TTS
 * Mycroft AI (*free voice assistant*)
 > https://github.com/mycroftai/
 <!--
