@@ -9,11 +9,10 @@ My name is Thorsten Müller, a guy with lots of passion for several IT stuff fro
 - 📫 Feel free to contact me on Twitter (@ThorstenVoice)
 
 ## My most (*hobby*) passion is currently at ...
+- Providing an open german TTS voice (https://www.Thorsten-Voice.de)
+- Help sharing knowledge on OpenVoice Technology Wiki (https://OpenVoice-Tech.net)
+- Sharing some lessons i've learned on my Youtube channel (https://www.youtube.com/c/ThorstenMueller)
 
-* Coqui TTS (*originally initiated by Mozilla*)
-> https://github.com/coqui-ai/TTS
-* Mycroft AI (*free voice assistant*)
-> https://github.com/mycroftai/
 <!--
 **thorstenMueller/thorstenMueller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
